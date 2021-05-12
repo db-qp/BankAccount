@@ -1,0 +1,60 @@
+Choice		Action
+------		------
+A		Add BankAccount
+C		Make Credit
+D		Make Debit
+I		Apply Monthly Interest
+L		List BankAccounts
+Q		Quit
+T		Transfer Fund
+?		Display Help
+
+What action would you like to perform?
+Please enter some account information to add:
+What action would you like to perform?
+
+Account type	:	Savings
+Account ID	:	savings01
+Balance		:	1000.00
+Interest rate	:	0.02
+
+What action would you like to perform?
+Please enter some account information to add:
+What action would you like to perform?
+
+Account type	:	Savings
+Account ID	:	savings01
+Balance		:	1000.00
+Interest rate	:	0.02
+
+
+Account type	:	Checking
+Account ID	:	checking02
+Balance		:	2000.00
+Interest rate	:	0.05
+Overdraft fee	:	20.00
+
+What action would you like to perform?
+Please enter some account information to add:
+What action would you like to perform?
+
+Account type	:	Savings
+Account ID	:	savings01
+Balance		:	1000.00
+Interest rate	:	0.02
+
+
+Account type	:	Checking
+Account ID	:	checking02
+Balance		:	2000.00
+Interest rate	:	0.05
+Overdraft fee	:	20.00
+
+
+Account type	:	Creditcard
+Account ID	:	credit333
+Balance		:	-300.00
+Interest rate	:	0.20
+Credit limit	:	1000.00
+
+What action would you like to perform?

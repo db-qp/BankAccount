@@ -1,0 +1,239 @@
+Choice		Action
+------		------
+A		Add BankAccount
+C		Make Credit
+D		Make Debit
+I		Apply Monthly Interest
+L		List BankAccounts
+Q		Quit
+T		Transfer Fund
+?		Display Help
+
+What action would you like to perform?
+Please enter some account information to add:
+What action would you like to perform?
+Please enter some account information to add:
+What action would you like to perform?
+Please enter some account information to add:
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	4500.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	-2.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4600.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make credit:
+Amount (in pennies) to make credit:
+credit performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	4500.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	-2.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make credit:
+Amount (in pennies) to make credit:
+credit performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	4500.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	98.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make credit:
+Amount (in pennies) to make credit:
+credit not performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	4500.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	98.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make debit:
+Amount (in pennies) to make debit:
+debit performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	4400.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	98.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make debit:
+Amount (in pennies) to make debit:
+debit performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	4400.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	-402.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make debit:
+Amount (in pennies) to make debit:
+debit not performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	4400.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	-402.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make debit:
+Amount (in pennies) to make debit:
+debit not performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	-630.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	-402.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
+Account number to make debit:
+Amount (in pennies) to make debit:
+debit not performed
+What action would you like to perform?
+
+Account type	:	Checking
+Account ID	:	bank2311
+Balance		:	-630.25
+Interest rate	:	0.03
+Overdraft fee	:	30.50
+
+
+Account type	:	Creditcard
+Account ID	:	credit100
+Balance		:	-402.00
+Interest rate	:	0.15
+Credit limit	:	500.00
+
+
+Account type	:	Savings
+Account ID	:	creditunion35
+Balance		:	4750.50
+Interest rate	:	0.05
+
+What action would you like to perform?
